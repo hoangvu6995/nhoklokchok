@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/vpham290434/vpham29/_apis/build/status/hoangvu6995.nhoklokchok?branchName=master)](https://dev.azure.com/vpham290434/vpham29/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
